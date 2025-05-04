@@ -80,15 +80,15 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 ##### Color Styles:
 
-- **Primary**: #FF5A5F
+- **Primary**: `#FF5A5F`
 
-- **Secondary**: #008489
+- **Secondary**: `#008489`
 
-- **Background**: #FFFFFF
+- **Background**: `#FFFFFF`
 
-- **Text**: #222222
+- **Text**: `#222222`
 
-- **Secondary Text**: #717171
+- **Secondary Text**: `#717171`
 
 ##### Typography:
 
