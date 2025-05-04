@@ -5,6 +5,7 @@ The goal is to build a functional web application that allows users to browse pr
 The project will cover frontend development, backend APIs, database design, and deployment with the technology stack described below.
 
 ### Project Roles and Responsibilities
+***
 
 - #### Project Manager
   - Oversees timeline, coordinates team, manages deliverables
@@ -34,6 +35,7 @@ The project will cover frontend development, backend APIs, database design, and 
   - Dedicated to database design, setup and maintenance
 
 ### Feature Breakdown
+***
 
 - User authentication
  
@@ -49,6 +51,7 @@ The project will cover frontend development, backend APIs, database design, and 
 
 
 ### Technology Stack
+***
 
 - **Design Tools**: 
   - **Figma**: a web based design and prototyping tool for UI/UX design.
@@ -67,6 +70,7 @@ The project will cover frontend development, backend APIs, database design, and 
   - **GitHub**: a cloud based hosting platform for hosting and collaborating with code.
 
 ### UI/UX Design Planning
+***
 
 #### Design Goals
 
@@ -111,6 +115,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 - **Secondary Text**: Circular, Book (400), 14px
 
 ### UI Component Patterns
+***
 
 - Navbar: Top navigation bar with links to sign in, signup, search for properties and checking in/out.
 - Property Card: Small card showing a property with image, title, price, and rating.
@@ -119,6 +124,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Footer: Bottom section with links to about, support, terms, and more.
 
 ### Database Design
+***
 
 #### Key Entities and Fields
 
@@ -169,6 +175,7 @@ A well-designed booking system reduces friction in the user journey, increases c
   - createdAt
 
 ### API Security
+***
 
 #### Key Security Measures
 
@@ -178,6 +185,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 - HTTPS: encrypted communication between client and server to prevent sending sensitive data over a network.
 
 ### CI/CD Pipeline
+***
 
 CI/CD provides a structured and automated way to build, test and deploy code. It has the following benefits:
 - Faster development cycles
